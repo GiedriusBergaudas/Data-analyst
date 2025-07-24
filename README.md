@@ -2,9 +2,11 @@
 
 **Online Sales Analysis:**
 
--**SQL**
+**SQL**
 
-(RFM, cohort, retention analysis)
+- RFM
+- Cohort
+- Retention
 
--**Power BI**
+**Power BI**
 
