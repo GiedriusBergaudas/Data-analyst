@@ -14,3 +14,15 @@ The dataset contains over 500,000 transactions, including customer IDs, countrie
 
 ## Key Insights & Results
 ### RFM Analysis
+| Segment Name            | Recency Score | Frequency/Monetary Score | Description                                     |
+| ----------------------- | ------------- | ------------------------ | ----------------------------------------------- |
+| **Best Customers**      | 4             | 4                        | Most loyal and valuable customers.              |
+| **Loyal Customers**     | 4 or 3        | 3 or 4                   | Frequent and consistent buyers.                 |
+| **Potential Loyalists** | 4 or 3        | 2 or 3                   | Growing loyalty, good potential.                |
+| **Recent Customers**    | 4             | 1                        | New customers with only one purchase.           |
+| **Promising**           | 3             | 2                        | Recently active but not yet fully engaged.      |
+| **At Risk**             | 2             | 4                        | High past value but haven’t purchased recently. |
+| **Need Attention**      | 2             | 2 or 3                   | Average customers who need re-engagement.       |
+| **Can't Lose Them**     | 1             | 3 or 4                   | Previously loyal, now inactive – risk of churn. |
+| **Lost Customers**      | 1 or 2        | 1 or 2                   | Low recent activity and value – likely lost.    |
+
