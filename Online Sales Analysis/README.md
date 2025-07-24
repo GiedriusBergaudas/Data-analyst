@@ -1,5 +1,6 @@
-# Project Gaol
-The project goal was to evaluate online retail sales performance and recomend strategic insights for next financial year
-## Tools used
-- SQL for data filtering, conducting rfm, cohort and retention analysis
-- PowerBi for data visualisations
+# Project Goal
+The goal of this project was to evaluate online retail sales performance and provide strategic recommendations for the next financial year.
+
+## Tools Used
+- **SQL** for data filtering, RFM analysis, cohort analysis, and retention metrics  
+- **Power BI** for data visualization
