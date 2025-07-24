@@ -1,5 +1,6 @@
-### Tools used:
+# Tools used:
 
-Online Sales Analysis:
--SQL (RFM, cohort, retention analysis)
--Power BI
+**Online Sales Analysis:**
+-**SQL**
+(RFM, cohort, retention analysis)
+-**Power BI**
