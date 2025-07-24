@@ -72,6 +72,21 @@ I calculated the following metrics for each cohort:
 4. **All cohorts start with a strong average revenue per user £545–£945**, indicating solid early spending. Improving retention should be a priority to capture more long-term value.
 
 5. Predicted average **CLV is around £2,355 per user**.
-
 This was calculated by taking the weighted average CLV from Q1, Q2, and Q3 cohorts based on their user counts and average spend over time.
 
+## Strategic Recommendations for the Next Fiscal Year
+
+1. **Double down on high-value segments**
+Focus loyalty programs, personalized campaigns, and exclusive offers on Best Customers, Loyal Customers, and Potential Loyalists.
+Target: Increase retention in these segments by 5–10%, potentially driving +£300K in additional annual revenue.
+
+2. **Reduce focus on Lost Customers** 
+Reallocate budget away from this low-value group; limit actions to automated reactivation emails only.
+Target: Cut marketing costs for this group by up to 80%, reinvest savings in higher ROI segments.
+
+3. **Invest in win-back campaigns for At Risk and Can’t Lose segments**
+Launch targeted re-engagement using tailored messaging and purchase reminders.
+Target: Recover 25% of these users, potential uplift: £100K+ in revenue based on past ARPU levels.
+
+4. **Maintain CAC Below £800 to Sustain Profitability**
+With a predicted Customer Lifetime Value of £2,355, we must cap CAC at £800 or less to ensure a healthy LTV:CAC ratio of 3:1.
