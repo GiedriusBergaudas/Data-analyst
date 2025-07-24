@@ -39,11 +39,11 @@ RFM segmentation was done using SQL by assigning scores based on quantiles:
 1. **Best Customers, Loyal Customers, and Potential Loyalists** – together they **make up 41% of all customers** but bring in around **77% of total revenue**.
   These are our most valuable groups and should stay a top priority for retention and loyalty efforts.
 
-2. **Lost Customers** make up the **biggest group (26%)** but only generate about **4% of total revenue**.
+2. **Lost Customers** are the **largest group, at 26%**, but they only generate about **4% of revenue**.
   This group isn’t bringing much value anymore – they could be excluded from most marketing or included in low-cost reactivation emails.
 
-3. **At Risk and Can’t Lose Them** segments account for **10% of customers** but have historically contributed nearly **12% of revenue**.
+3. **At Risk and Can’t Lose Them** segments account for **10% of customers** but have contributed close to **12% of revenue**.
   These customers used to spend a lot — it is worth trying to win them back before they are completely lost.
 
-4. **Customers Needing Attention and Promising** together account for **22% of the customer base** and have **mid-level value**.
-  Theya re not high spenders yet, but with the right targeting, some of them could become loyal.
+4. **Customers Needing Attention and Promising** represent **22% of customers** and have **moderate value**.
+They’re not top spenders yet, but with some targeted offers, some could turn into loyal buyers.
