@@ -14,6 +14,13 @@ The dataset contains over 500,000 transactions, including customer IDs, countrie
 
 ## Key Insights & Results
 ### RFM Analysis
+
+RFM segmentation was done using SQL by assigning scores based on quantiles:
+
+Recency: Calculated as days since the last purchase.
+Frequency: Number of orders per customer.
+Monetary: Total spend per customer.
+
 | Segment Name            | Recency Score | Frequency/Monetary Score | Description                                     |
 | ----------------------- | ------------- | ------------------------ | ----------------------------------------------- |
 | **Best Customers**      | 4             | 4                        | Most loyal and valuable customers.              |
