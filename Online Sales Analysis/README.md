@@ -63,7 +63,7 @@ I calculated the following metrics for each cohort:
 - Total Revenue
  
 **Insights :**
-1. The **Q1 cohort starts strong with 1,682 users and £1.6M revenue**. Despite retention dropping to around 55-57%, total revenue grows to nearly £1.9K by period 3, showing loyal customers spend more over time.
+1. The **Q1 cohort starts strong with 1,682 users and £1.6M revenue**. Despite retention dropping to around 55-57%, total revenue grows to nearly £1.9M by period 3, showing loyal customers spend more over time.
 
 2. The **Q2 cohort begins with 1,036 users and £0.56M revenue**. Retention falls sharply to 40.5% after one quarter but rebounds to nearly 50%, with revenue following the same trend—likely due to re-engagement efforts or seasonality.
 
