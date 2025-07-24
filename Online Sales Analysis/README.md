@@ -79,18 +79,18 @@ This was calculated by taking the weighted average CLV from Q1, Q2, and Q3 cohor
 1. **Double down on high-value segments**
 Focus loyalty programs, personalized campaigns, and exclusive offers on Best Customers, Loyal Customers, and Potential Loyalists.
 
-**Target:** Increase retention in these segments by 5–10%, potentially driving +£300K in additional annual revenue.
+  **Target:** Increase retention in these segments by 5–10%, potentially driving +£300K in additional annual revenue.
 
-2. **Reduce focus on Lost Customers** 
+2. **Reduce focus on Lost Customers**
 Reallocate budget away from this low-value group; limit actions to automated reactivation emails only.
 
-**Target:** Cut marketing costs for this group by up to 80%, reinvest savings in higher ROI segments.
+  **Target:** Cut marketing costs for this group by up to 80%, reinvest savings in higher ROI segments.
 
-3. Invest in win-back campaigns for At Risk and Can’t Lose segments
+3. **Invest in win-back campaigns** for At Risk and Can’t Lose segments
 Launch targeted re-engagement using tailored messaging and purchase reminders.
 
-**Target:** Recover 25% of these users, potential uplift: £100K+ in revenue** based on past ARPU levels.
+  **Target:** Recover 25% of these users, potential uplift: £100K+ in revenue** based on past ARPU levels.
 
-4. **Maintain CAC Below £800 to Sustain Profitability**
+4. **Maintain CAC Below £800** to Sustain Profitability
 
 **Target**: With a predicted Customer Lifetime Value of £2,355, to ensure a healthy LTV:CAC ratio of 3:1. CAC has to be £800 or less.
