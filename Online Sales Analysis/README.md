@@ -79,7 +79,7 @@ This was calculated by taking the weighted average CLV from Q1, Q2, and Q3 cohor
 1. **Double down on high-value segments**
 Focus loyalty programs, personalized campaigns, and exclusive offers on Best Customers, Loyal Customers, and Potential Loyalists.
 
-  **Target:** Increase retention in these segments by 5–10%, potentially driving +£300K in additional annual revenue.
+    **Target:** Increase retention in these segments by 5–10%, potentially driving +£300K in additional annual revenue.
 
 2. **Reduce focus on Lost Customers**
 Reallocate budget away from this low-value group; limit actions to automated reactivation emails only.
