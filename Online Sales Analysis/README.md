@@ -46,7 +46,7 @@ RFM segmentation was done using SQL by assigning scores based on quantiles:
   These customers used to spend a lot — it is worth trying to win them back before they are completely lost.
 
 4. **Customers Needing Attention and Promising** represent **22% of customers** and have **moderate value**.
-They’re not top spenders yet, but with some targeted offers, some could turn into loyal buyers.
+They are not top spenders yet, but with some targeted offers, some could turn into loyal buyers.
 
 
 ### Cohort Analysis
