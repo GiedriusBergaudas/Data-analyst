@@ -2,5 +2,5 @@
 
 **Online Sales Analysis:**
 
-- **SQL** - **Power BI**
+- SQL - Power BI
 
