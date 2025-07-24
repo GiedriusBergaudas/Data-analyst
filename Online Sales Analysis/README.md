@@ -1,5 +1,5 @@
 # Project Goal
-The main goal was to evaluate annual sales by identifying valuable customer segments and tracking revenue and retention trends, helping define strategic focus areas for the next financial year.
+The main goal was to **evaluate annual sales** by identifying valuable customer segments and tracking revenue and retention trends, helping **define strategic focus areas for the next financial year**.
 
 ## Tools Used
 - **SQL** for data filtering, RFM analysis, cohort analysis, and retention metrics  
