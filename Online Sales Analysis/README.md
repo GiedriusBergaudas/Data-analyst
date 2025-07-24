@@ -11,3 +11,6 @@ The main goal was to **evaluate annual sales** by identifying valuable customer 
 This is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 The dataset contains over 500,000 transactions, including customer IDs, countries, timestamps, quantities, and prices.
+
+## Key Insights & Results
+### RFM Analysis
