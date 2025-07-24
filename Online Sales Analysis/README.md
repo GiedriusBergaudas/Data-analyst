@@ -47,3 +47,17 @@ RFM segmentation was done using SQL by assigning scores based on quantiles:
 
 4. **Customers Needing Attention and Promising** represent **22% of customers** and have **moderate value**.
 They’re not top spenders yet, but with some targeted offers, some could turn into loyal buyers.
+
+
+### Cohort Analysis
+
+For the cohort analysis, since purchases are infrequent, I used a quarterly approach to better capture customer behavior over time.
+I calculated the following metrics for each cohort:
+
+- Total Users
+
+- Retention Rate
+
+- Average Revenue Per User
+
+- Total Revenue
