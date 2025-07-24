@@ -32,8 +32,8 @@ RFM segmentation was done using SQL by assigning scores based on quantiles:
 | **Promising**           | 3             | 2                        | Recently active but not yet fully engaged.      |
 | **At Risk**             | 2             | 4                        | High past value but haven’t purchased recently. |
 | **Need Attention**      | 2             | 2 or 3                   | Average customers who need re-engagement.       |
-| **Can't Lose Them**     | 1             | 3 or 4                   | Previously loyal, now inactive – risk of churn. |
-| **Lost Customers**      | 1 or 2        | 1 or 2                   | Low recent activity and value – likely lost.    |
+| **Can't Lose Them**     | 1             | 3 or 4                   | Previously loyal, now inactive.                 |
+| **Lost Customers**      | 1 or 2        | 1 or 2                   | Low recent activity and value.                  |
 
 **Insights :**
 1. **Best Customers, Loyal Customers, and Potential Loyalists** – together they **make up 41% of all customers** but bring in around **77% of total revenue**.
