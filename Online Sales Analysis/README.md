@@ -71,4 +71,7 @@ I calculated the following metrics for each cohort:
 
 4. **All cohorts start with a strong average revenue per user £545–£945**, indicating solid early spending. Improving retention should be a priority to capture more long-term value.
 
+5. Predicted average **CLV is around £2,355 per user**.
+
+This was calculated by taking the weighted average CLV from Q1, Q2, and Q3 cohorts based on their user counts and average spend over time.
 
