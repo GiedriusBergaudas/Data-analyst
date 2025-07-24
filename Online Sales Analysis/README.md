@@ -89,7 +89,7 @@ Reallocate budget away from this low-value group; limit actions to automated rea
 3. **Invest in win-back campaigns** for At Risk and Can’t Lose segments
 Launch targeted re-engagement using tailored messaging and purchase reminders.
 
-    **Target:** Recover 25% of these users, potential uplift: £100K+ in revenue** based on past ARPU levels.
+    **Target:** Recover 25% of these users, potential uplift: £100K+ in revenue based on past ARPU levels.
 
 4. **Maintain CAC Below £800** to Sustain Profitability
 
