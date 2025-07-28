@@ -82,11 +82,11 @@ Focus loyalty programs, personalized campaigns, and exclusive offers on Best Cus
     **Target:** Increase retention in these segments by 5–10%, potentially driving +£300K in additional annual revenue.
 
 2. **Reduce focus on Lost Customers**
-Reallocate budget away from this low-value group; limit actions to automated reactivation emails only.
+Reallocate budget away from this low-value group, limit actions to automated reactivation emails only.
 
     **Target:** Cut marketing costs for this group by up to 80%, reinvest savings in higher ROI segments.
 
-3. **Invest in win-back campaigns** for At Risk and Can’t Lose segments
+3. **Invest in win-back campaigns** for At Risk and Can’t Lose segments.
 Launch targeted re-engagement using tailored messaging and purchase reminders.
 
     **Target:** Recover 25% of these users, potential uplift: £100K+ in revenue based on past ARPU levels.
