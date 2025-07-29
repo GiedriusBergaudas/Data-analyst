@@ -42,7 +42,7 @@ Before scoring, I defined **expected value ranges** for each financial ratio bas
 
 These ranges were used to **scale each ratio between 0 and 100** before applying the weighted scoring model.
 
-## Weighting Explanation
+### Weighting Explanation
 
 Here’s why I assigned the weights the way I did:
 
@@ -57,6 +57,16 @@ Here’s why I assigned the weights the way I did:
 This scoring model helps to compare Walmart, Target, and Costco fairly and see which company has the strongest overall financial position based on these key ratios.
 
 ## Results
+
+### 📊 Company Financial Ratios (2024)
+
+| Company         | ROI (%) | Gross Margin (%) | ROS (%) | Current Ratio  | Quick Ratio  | Asset Turnover | Debt-to-Equity |
+|---------------  |---------|------------------|---------|----------------|--------------|----------------|----------------|
+| **Walmart**     | 18.50   | 24.38            | 3.78    | 0.83           | 0.24         | 2.57           | 1.93           |
+| **Target Corp** | 30.81   | 27.54            | 5.40    | 0.91           | 0.29         | 1.94           | 3.12           |
+| **Costco**      | 31.19   | 12.61            | 3.89    | 0.97           | 0.44         | 3.64           | 1.96           |
+
+
 
 
 
