@@ -1,83 +1,87 @@
-# Retail Companies – 2024 Financial Analysis
+
+
+# Retail Companies – 2024 Financial Overview
 
 ## Project Goal
 
-This project aims to analyze and compare the 2024 financial performance of three major retail companies — **Walmart**, **Target**, and **Costco**. These are some of the biggest players in retail, with approximate market values as follows:
+This project compares the 2024 financial performance of three major retail companies with following market values:
 
-- **Walmart** – $782 billion  
-- **Costco** – $413 billion  
-- **Target** – $48.2 billion
+- Walmart ~$782 B
+- Costco ~$413 B
+- Target ~$48.2 B
+
+These companies are among the biggest in retail. The goal is to see which one had the strongest financial health in 2024 using key financial ratios.
 
 ## Methodology
 
-I used the **`yfinance` Python library** to download financial data straight from Yahoo Finance. This included income statements, balance sheets, and cash flow reports.
+Using the `yfinance` Python library, I downloaded financial data for all three companies directly from Yahoo Finance. The data includes:
 
-From this data, I calculated key financial ratios for each company:
+- Income statements  
+- Balance sheets  
+- Cash flow reports
 
-- **Return on Investment (ROI)**
-- **Gross Margin**
-- **Return on Sales (ROS)**
-- **Current Ratio**
-- **Quick Ratio**
-- **Asset Turnover**
-- **Debt-to-Equity Ratio**
+Based on this data, I calculated seven important financial ratios to evaluate profitability, liquidity, efficiency, and debt.
 
-These ratios show different aspects of a company's financial health — like profitability, liquidity, efficiency, and debt levels.
+Financial Ratios Used:
 
-To make it easier to compare the companies, I created a simple scoring system. Each ratio was given a weight based on how important it is when evaluating retail businesses. Then, I combined these to give each company a final score from **0 to 100**.
+- ROI              
+- Gross Margin     
+- Return on Sales  
+- Current Ratio    
+- Quick Ratio     
+- Asset Turnover   
+- Debt-to-Equity   
 
-### Ratio Scoring Ranges
 
-Before scoring, I defined **expected value ranges** for each financial ratio based on typical benchmarks in the retail industry. These ranges help normalize values and give context — what’s considered strong or weak performance for each metric:
+## Scoring System
 
-| Metric            | Low–High                  |                                                              
-|-------------------|---------------------------|
-| **ROI**           | 5% – 20%                  | 
-| **Gross Margin**  | 10% – 30%                 |
-| **ROS**           | 2% – 6%                   |
-| **Current Ratio** | 0.5 – 1.5                 | 
-| **Quick Ratio**   | 0.2 – 1.0                 | 
-| **Asset Turnover**| 1 – 3                     |
-| **Debt-to-Equity**| 2.5 – 0.5                 | 
+To compare the companies fairly, I built a scoring model:
 
-These ranges were used to **scale each ratio between 0 and 100** before applying the weighted scoring model.
+1. Each ratio was scaled from 0 to 100 based on typical retail benchmarks.  
+2. Each ratio was given a weight depending on its importance for retail companies.
 
-### Weighting Explanation
+Weights:
 
-Here’s why I assigned the weights the way I did:
+| Metric          | Weight |                                              |
+|-----------------|--------|-----------------------------------------------|
+| ROI             | 30%    |    It is the most important because good returns are crucial for growth.          |
+| Gross Margin    | 25%    |    Since retail depends a lot on controlling costs of goods sold, this ratio is very important.  |
+| Return on Sales | 10%    |hows how efficiently the company turns sales into profit.            |
+| Current Ratio   | 10%    | Measures short-term financial health and liquidity.        |
+| Quick Ratio     | 5%     | A stricter liquidity test than the Current Ratio, but slightly less critical, so it has a smaller weight.                 |
+| Asset Turnover  | 10%    | Shows how well the company uses its assets to generate sales, important for retail low margin environment.             |
+| Debt-to-Equity  | 5%     | Retail companies usually carry moderate debt, so it has the lowest weight.         |
 
-- **ROI (30%)** — It is the most important because good returns are crucial for growth.
-- **Gross Margin (25%)** — Since retail depends a lot on controlling costs of goods sold, this ratio is very important.
-- **ROS (10%)** — Shows how efficiently the company turns sales into profit.
-- **Current Ratio (10%)** — Measures short-term financial health and liquidity.
-- **Quick Ratio (5%)** — A stricter liquidity test than the Current Ratio, but slightly less critical, so it has a smaller weight.
-- **Asset Turnover (10%)** — Shows how well the company uses its assets to generate sales, important for retail low margin environment.
-- **Debt-to-Equity (5%)** — Retail companies usually carry moderate debt, so it has the lowest weight.
+The final score is out of 100, where higher means better overall financial health.
 
-This scoring model helps to compare Walmart, Target, and Costco fairly and see which company has the strongest overall financial position based on these key ratios.
 
 ## Results
 
-| Company         | ROI (%) | Gross Margin (%) | ROS (%) | Current Ratio  | Quick Ratio  | Asset Turnover | Debt-to-Equity |
-|---------------  |---------|------------------|---------|----------------|--------------|----------------|----------------|
-| Walmart       | 18.50   | 24.38            | 3.78    | 0.83           | 0.24         | 2.57           | 1.93           |
-| Target Corp    | 30.81   | 27.54            | 5.40    | 0.91           | 0.29         | 1.94           | 3.12           |
-| Costco        | 31.19   | 12.61            | 3.89    | 0.97           | 0.44         | 3.64           | 1.96           |
+| Company    | ROI (%) | Gross Margin (%) | ROS (%) | Current Ratio | Quick Ratio | Asset Turnover | Debt-to-Equity |
+|------------|---------|------------------|---------|---------------|-------------|----------------|----------------|
+| Walmart    | 18.50   | 24.38            | 3.78    | 0.83          | 0.24        | 2.57           | 1.93           |
+| Target     | 30.81   | 27.54            | 5.40    | 0.91          | 0.29        | 1.94           | 3.12           |
+| Costco     | 31.19   | 12.61            | 3.89    | 0.97          | 0.44        | 3.64           | 1.96           |
 
+### Final Scores
 
-Financial scores:
+- Target: 70  
+- Walmart: 62  
+- Costco: 56  
 
-**Target** - 70
+## Conclusion
 
-**Walmart** - 62
+Target scored highest overall, largely due to strong return and margin numbers. Walmart shows solid financials but scores lower mainly due to margins. Costco has excellent asset efficiency but lower margins impact its overall score.
 
-**Costco** - 56
+Based on this analysis, Target currently shows the strongest financial position among these retailers.
 
-**Target Corporation** stands out with the highest overall financial score of 70 out of 100. This indicates a relatively strong financial position, driven largely by superior performance in return based metrics such as ROI, Gross Margin, and ROS, which carry the highest weights in the model.
+## Tools Used
 
-**Walmart**, with a score of 62, demonstrates solid financial fundamentals but falls slightly behind Target, particularly in margin-related areas. 
+- Python  
+- yfinance library  
+- Pandas  
+- Jupyter Notebook
+- Seaborn
+- Matplotlib
 
-**Costco**, scoring 56, trails both peers in this comparison.
-
-**Overall, this analysis suggests that Target may currently present a more favorable financial profile among the three major retailers.**
 
