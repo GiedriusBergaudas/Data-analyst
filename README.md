@@ -4,3 +4,6 @@
 
 - SQL - Power BI
 
+**Financial Analysis**
+
+- Python
