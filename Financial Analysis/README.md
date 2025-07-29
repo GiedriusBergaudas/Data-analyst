@@ -40,7 +40,6 @@ To compare the companies fairly, I built a scoring model:
 1. Each ratio was scaled from 0 to 100 based on typical retail benchmarks.  
 2. Each ratio was given a weight depending on its importance for retail companies.
 
-Weights:
 
 | Metric          | Weight |                                              |
 |-----------------|--------|-----------------------------------------------|
