@@ -40,7 +40,7 @@ Here’s why I assigned the weights the way I did:
 
 This scoring model helps to compare Walmart, Target, and Costco fairly and see which company has the strongest overall financial position based on these key ratios.
 
-
+## Results
 
 
 
