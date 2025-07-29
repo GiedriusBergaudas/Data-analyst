@@ -4,9 +4,9 @@
 
 The goal of this project is to analyze and compare the 2024 financial performance of three large retail companies — **Walmart**, **Target**, and **Costco**. These companies are key players in the retail industry, with the following approximate market capitalizations in 2024:
 
-- **Walmart** Mkt cap – ~$782B  
-- **Costco** Mkt cap – ~$413B  
-- **Target** Mkt cap – ~$48.2B
+- **Walmart** – ~$782B  
+- **Costco** – ~$413B  
+- **Target** – ~$48.2B
 
 ## Methodology
 
