@@ -2,13 +2,17 @@
 
 ## Project Goal
 
-The goal of this project is to evaluate and compare the financial performance of three major companies in the retail sector — **Walmart**, **Target**, and **Costco**.
+The goal of this project is to analyze and compare the 2024 financial performance of three large retail companies — **Walmart**, **Target**, and **Costco**. These companies are key players in the retail industry, with the following approximate market capitalizations in 2024:
+
+- **Walmart** Mkt cap – ~$782B  
+- **Costco** Mkt cap – ~$413B  
+- **Target** Mkt cap – ~$48.2B
 
 ## Methodology
 
-Financial data was extracted using the **`yfinance` Python library**, which pulls stock and financial statement data directly from Yahoo Finance.
+I used the **`yfinance` Python library** to collect financial data directly from Yahoo Finance, including income statements, balance sheets, and cash flow reports.
 
-From the raw data, I calculated the following financial ratios for each company:
+Based on this data, I calculated the following financial ratios for each company:
 
 - **Return on Investment (ROI)**
 - **Gross Margin**
@@ -18,10 +22,13 @@ From the raw data, I calculated the following financial ratios for each company:
 - **Asset Turnover**
 - **Debt-to-Equity Ratio**
 
-Each of these metrics represents a different aspect of a company's financial health — such as profitability, liquidity, efficiency, and leverage.
+These ratios help to understand different parts of a company’s financial health: profitability, liquiidity, activity, solvency.
 
-To make a meaningful comparison, I developed a **custom scoring model**, assigning specific weights to each ratio based on its importance in retail industry analysis. The final score for each company ranges from **0 to 100**.
+To compare the companies more clearly, I built a **simple scoring model**. Each metric was given a weight depending on how important it is when analyzing retail businesses. Then, each company got a final score from **0 to 100** based on how well they performed across all these ratios.
 
 ## Outcome
 
-The scores help benchmark each company’s overall financial position, making it easier to identify which one may be in the strongest condition based on financial fundamentals.
+
+
+
+
