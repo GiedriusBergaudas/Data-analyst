@@ -73,11 +73,11 @@ Financial scores:
 
 **Costco** - 56
 
-Target Corporation stands out with the highest overall financial score of 70 out of 100. This indicates a relatively strong financial position, driven largely by superior performance in return based metrics such as ROI, Gross Margin, and ROS, which carry the highest weights in the model.
+**Target Corporation** stands out with the highest overall financial score of 70 out of 100. This indicates a relatively strong financial position, driven largely by superior performance in return based metrics such as ROI, Gross Margin, and ROS, which carry the highest weights in the model.
 
-Walmart, with a score of 62, demonstrates solid financial fundamentals but falls slightly behind Target, particularly in margin-related areas. 
+**Walmart**, with a score of 62, demonstrates solid financial fundamentals but falls slightly behind Target, particularly in margin-related areas. 
 
-Costco, scoring 56, trails both peers in this comparison.
+**Costco**, scoring 56, trails both peers in this comparison.
 
-Overall, this analysis suggests that Target may currently present a more favorable financial profile among the three major retailers.
+**Overall, this analysis suggests that Target may currently present a more favorable financial profile among the three major retailers.**
 
