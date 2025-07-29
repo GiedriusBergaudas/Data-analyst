@@ -58,15 +58,16 @@ This scoring model helps to compare Walmart, Target, and Costco fairly and see w
 
 ## Results
 
-### 📊 Company Financial Ratios (2024)
-
 | Company         | ROI (%) | Gross Margin (%) | ROS (%) | Current Ratio  | Quick Ratio  | Asset Turnover | Debt-to-Equity |
 |---------------  |---------|------------------|---------|----------------|--------------|----------------|----------------|
-| **Walmart**     | 18.50   | 24.38            | 3.78    | 0.83           | 0.24         | 2.57           | 1.93           |
-| **Target Corp** | 30.81   | 27.54            | 5.40    | 0.91           | 0.29         | 1.94           | 3.12           |
-| **Costco**      | 31.19   | 12.61            | 3.89    | 0.97           | 0.44         | 3.64           | 1.96           |
+| Walmart       | 18.50   | 24.38            | 3.78    | 0.83           | 0.24         | 2.57           | 1.93           |
+| Target Corp    | 30.81   | 27.54            | 5.40    | 0.91           | 0.29         | 1.94           | 3.12           |
+| Costco        | 31.19   | 12.61            | 3.89    | 0.97           | 0.44         | 3.64           | 1.96           |
 
-
+**Financial scores:
+**Target** - 70
+**Walmart** - 62
+**Costco** - 56
 
 
 
