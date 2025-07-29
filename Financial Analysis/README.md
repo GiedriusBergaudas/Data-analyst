@@ -26,6 +26,22 @@ These ratios show different aspects of a company's financial health — like pro
 
 To make it easier to compare the companies, I created a simple scoring system. Each ratio was given a weight based on how important it is when evaluating retail businesses. Then, I combined these to give each company a final score from **0 to 100**.
 
+### Ratio Scoring Ranges
+
+Before scoring, I defined **expected value ranges** for each financial ratio based on typical benchmarks in the retail industry. These ranges help normalize values and give context — what’s considered strong or weak performance for each metric:
+
+| Metric            | Low–High                  |                                                              
+|-------------------|---------------------------|
+| **ROI**           | 5% – 20%                  | 
+| **Gross Margin**  | 10% – 30%                 |
+| **ROS**           | 2% – 6%                   |
+| **Current Ratio** | 0.5 – 1.5                 | 
+| **Quick Ratio**   | 0.2 – 1.0                 | 
+| **Asset Turnover**| 1 – 3                     |
+| **Debt-to-Equity**| 2.5 – 0.5                 | 
+
+These ranges were used to **scale each ratio between 0 and 100** before applying the weighted scoring model.
+
 ## Weighting Explanation
 
 Here’s why I assigned the weights the way I did:
