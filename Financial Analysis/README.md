@@ -64,7 +64,9 @@ This scoring model helps to compare Walmart, Target, and Costco fairly and see w
 | Target Corp    | 30.81   | 27.54            | 5.40    | 0.91           | 0.29         | 1.94           | 3.12           |
 | Costco        | 31.19   | 12.61            | 3.89    | 0.97           | 0.44         | 3.64           | 1.96           |
 
-**Financial scores:
+
+Financial scores:
+
 **Target** - 70
 **Walmart** - 62
 **Costco** - 56
