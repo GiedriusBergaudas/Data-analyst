@@ -38,8 +38,6 @@ Here’s why I assigned the weights the way I did:
 - **Asset Turnover (10%)** — Shows how well the company uses its assets to generate sales, important for retail low margin environment.
 - **Debt-to-Equity (5%)** — Retail companies usually carry moderate debt, so it has the lowest weight.
 
----
-
 This scoring model helps to compare Walmart, Target, and Costco fairly and see which company has the strongest overall financial position based on these key ratios.
 
 
