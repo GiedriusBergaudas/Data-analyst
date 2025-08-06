@@ -1,9 +1,9 @@
 # Tools used:
 
-**Online Sales Analysis:**
+### **Online Sales Analysis:**
 
 - SQL - Power BI
 
-**Financial Analysis**
+###  **Financial Analysis**
 
 - Python
