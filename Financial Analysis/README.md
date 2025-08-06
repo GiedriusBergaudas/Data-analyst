@@ -1,4 +1,4 @@
-# Retail Companies – 2024 Financial Analysis
+# Retail Companies 2024 Financial Analysis
 
 ## Project Goal
 
