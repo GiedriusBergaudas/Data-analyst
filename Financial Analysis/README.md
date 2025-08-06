@@ -22,13 +22,13 @@ Based on this data, I calculated seven important financial ratios to evaluate pr
 
 Financial Ratios Used:
 
-- ROI              
-- Gross Margin     
-- Return on Sales  
-- Current Ratio    
-- Quick Ratio     
-- Asset Turnover   
-- Debt-to-Equity   
+- **ROI**              
+- **Gross Margin**   
+- **Return on Sales**  
+- **Current Ratio**    
+- **Quick Ratio**     
+- **Asset Turnover**   
+- **Debt-to-Equity**   
 
 
 ## Scoring System
@@ -62,15 +62,15 @@ The final score is out of 100, where higher means better overall financial healt
 
 ### Final Scores
 
-- Target: 70  
-- Walmart: 62  
-- Costco: 56  
+- **Target: 70**  
+- **Walmart: 62**  
+- **Costco: 56**  
 
 ## Conclusion
 
-Target scored highest overall, largely due to strong return and margin numbers. Walmart shows solid financials but scores lower mainly due to margins. Costco has excellent asset efficiency but lower margins impact its overall score.
+**Target scored highest overall**, largely due to strong return and margin numbers. **Walmart** shows solid financials but scores lower mainly due to margins. **Costco** has excellent asset efficiency but lower margins impact its overall score.
 
-Based on this analysis, Target currently shows the strongest financial position among these retailers.
+Based on this analysis, **Target currently shows the strongest financial position** among these retailers.
 
 ## Tools Used
 
