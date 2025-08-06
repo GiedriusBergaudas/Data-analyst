@@ -1,14 +1,12 @@
-
-
 # Retail Companies – 2024 Financial Overview
 
 ## Project Goal
 
-This project compares the 2024 financial performance of three major retail companies with following market values:
+This **project compares the 2024 financial performance of three major retail companies** with following market values:
 
-- Walmart ~$782 B
-- Costco ~$413 B
-- Target ~$48.2 B
+- **Walmart ~$782 B**
+- **Costco ~$413 B**
+- **Target ~$48.2 B**
 
 These companies are among the biggest in retail. The goal is to see which one had the strongest financial health in 2024 using key financial ratios.
 
@@ -16,9 +14,9 @@ These companies are among the biggest in retail. The goal is to see which one ha
 
 Using the `yfinance` Python library, I downloaded financial data for all three companies directly from Yahoo Finance. The data includes:
 
-- Income statements  
-- Balance sheets  
-- Cash flow reports
+- **Income statements** 
+- **Balance sheets**  
+- **Cash flow reports**
 
 Based on this data, I calculated seven important financial ratios to evaluate profitability, liquidity, efficiency, and debt.
 
